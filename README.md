@@ -16,7 +16,7 @@
 
 ## 📱 截图
 
-*（可添加 APP 截图）*
+*![49d6979a9db18455eb40f37cfe01650a](https://github.com/user-attachments/assets/d422154b-e06f-4ed9-9194-09dda14f6442)*
 
 ## 🛠️ 技术栈
 
@@ -33,7 +33,7 @@
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/你的用户名/FangCunMi.git
+git clone https://github.com/Echois404/FangCunMi.git
 ```
 
 2. 用 Android Studio 打开项目

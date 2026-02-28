@@ -16,7 +16,7 @@
 
 ## 📱 截图
 
-*![49d6979a9db18455eb40f37cfe01650a](https://github.com/user-attachments/assets/d422154b-e06f-4ed9-9194-09dda14f6442)*
+*暂无*
 
 ## 🛠️ 技术栈
 
